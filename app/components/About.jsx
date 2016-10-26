@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h1 className="text-center">About Component</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>This is a basic React application that allows the user to search for and view the current weather in a given location.</p>
       <p>The main purpose of building this app was to get more familiar with components, routes, and Foundation.</p>
       <p>Here are some of the tools I used.</p>
